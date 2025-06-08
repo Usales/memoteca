@@ -1,6 +1,6 @@
 ![Thumbnail](./thumb.png)
 
-# Memoteca
+# Memoteca - Praticando com a Alura Cursos
 
 Memoteca é um aplicativo organizador de pensamentos e frases que permite cadastrar, listar e deletar pensamentos, incluindo informações como conteúdo e autoria.
 
