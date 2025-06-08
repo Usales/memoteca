@@ -224,6 +224,7 @@ h2, h3 {
   overflow-wrap: break-word;
   word-wrap: break-word;
   hyphens: auto;
+  padding-top: 24px; /* espaço para o botão */
 }
 
 .icone-aspas {
@@ -282,3 +283,18 @@ span {
   background: #041832;
   margin: 96px 0 48px 0;
 }
+
+.botao-deletar {
+  position: absolute;
+  top: 6px;
+  right: 8px;
+  background: transparent;
+  color: #e74c3c;
+  border: none;
+  font-size: 2rem;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 0;
+  line-height: 1;
+}
+
