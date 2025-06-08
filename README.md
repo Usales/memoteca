@@ -1,6 +1,6 @@
 ![Thumbnail](./thumb.png)
 
-# Memoteca - Praticando com a Alura Cursos
+# Memoteca - Praticando CRUD com requisição HTTP
 
 Memoteca é um aplicativo organizador de pensamentos e frases que permite cadastrar, listar e deletar pensamentos, incluindo informações como conteúdo e autoria.
 
